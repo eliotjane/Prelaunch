@@ -1,0 +1,8 @@
+/vis/open TSG_OFFSCREEN
+/run/initialize
+/vis/drawVolume
+/vis/viewer/set/style surface
+/vis/viewer/set/viewpointThetaPhi 45 45
+/vis/viewer/zoom 1
+/vis/viewer/rebuild
+/vis/viewer/flush
